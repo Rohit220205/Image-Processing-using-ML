@@ -58,6 +58,6 @@ After training the models, the notebook provides various evaluation metrics and 
 
 
 **Your Name**  
-[GitHub](https://github.com/Arvindvishal2673) • [LinkedIn](https://www.linkedin.com/in/vishal-kumar-4a8a0a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[GitHub](https://github.com/Rohit220205) • [LinkedIn](https://www.linkedin.com/in/vishal-kumar-4a8a0a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
